@@ -1,0 +1,15 @@
+[-1c]
+func_addr = 4195914
+name = "i"
+stack_offset = -28
+stack_offset_type = 3
+size = 4
+type = "BOT"
+
+[-c]
+func_addr = 4195914
+name = "j"
+stack_offset = -12
+stack_offset_type = 3
+size = 4
+type = "unsigned int (32 bits)"
