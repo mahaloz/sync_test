@@ -1,6 +1,6 @@
 [-2c]
 func_addr = 4195676
-name = "len"
+name = "not_len"
 stack_offset = -44
 stack_offset_type = 3
 size = 4
