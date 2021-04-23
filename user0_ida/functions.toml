@@ -1,11 +1,11 @@
 [40055c]
 addr = 4195676
-name = "not_an_overflow"
+name = "func1"
 track = true
 
 [4005b6]
 addr = 4195766
-name = "fo_sho_overflow"
+name = "func2"
 track = true
 
 [40063e]
