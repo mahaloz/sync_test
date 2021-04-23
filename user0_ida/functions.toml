@@ -12,3 +12,8 @@ track = true
 addr = 4195902
 name = "renamed_func"
 track = true
+
+[40068f]
+addr = 4195983
+name = "main"
+track = true
