@@ -5,7 +5,7 @@ track = true
 
 [4005b6]
 addr = 4195766
-name = "func2"
+name = "not_func2"
 track = true
 
 [40063e]
