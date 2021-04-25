@@ -8,7 +8,7 @@ type = "unsigned char"
 
 [-10]
 func_addr = 4195676
-name = "canary"
+name = "not_canar"
 stack_offset = -16
 stack_offset_type = 1
 size = 8
