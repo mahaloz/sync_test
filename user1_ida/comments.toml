@@ -1,3 +1,7 @@
 [40055c]
 addr = 4195676
-comment = "func comment\nthat is long"
+comment = "func comment\nthat is long\n0x40059e: asm comment"
+
+[40059e]
+addr = 4195742
+comment = "asm comment"
