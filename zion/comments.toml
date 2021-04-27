@@ -1,7 +1,0 @@
-[40055c]
-addr = 4195676
-comment = "multi\nline\ncomment\n0x400581: some asm comment"
-
-[400581]
-addr = 4195713
-comment = "some asm comment"
