@@ -12,4 +12,4 @@ comment = "some asm comment"
 
 [40063e]
 addr = 4195902
-comment = "func comment\nwith asm with\nstack vars changed"
+comment = "func comment\nwith asm with\nstack vars changed\n\n0x400661: asm comment"
