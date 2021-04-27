@@ -5,3 +5,7 @@ name = "func1"
 [4005b6]
 addr = 4195766
 name = "func2"
+
+[40063e]
+addr = 4195902
+name = "func3"
