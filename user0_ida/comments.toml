@@ -1,0 +1,7 @@
+[40055c]
+addr = 4195676
+comment = "this is a \nrepeated comment\n0x40055c: this is a \nrepeated comment"
+
+[400628]
+addr = 4195880
+comment = "this is a decently long comment\nand it has a newling"
