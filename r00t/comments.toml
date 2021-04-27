@@ -1,3 +1,3 @@
 [40055c]
 addr = 4195676
-comment = "overwrite the\nold comment"
+comment = "func comment\nthat is long\n0x40059e: asm comment\n0x40059e: asm comment"
