@@ -5,3 +5,7 @@ comment = "comment"
 [400573]
 addr = 4195699
 comment = "this is a loop"
+
+[400592]
+addr = 4195730
+comment = "this is an array I think"
