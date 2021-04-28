@@ -25,7 +25,3 @@ name = "yoyo2"
 [1c1b]
 addr = 7195
 name = "new_func_name"
-
-[22b0]
-addr = 8880
-name = "fini"
