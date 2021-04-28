@@ -9,3 +9,7 @@ name = "cool_lookin_function"
 [20bc]
 addr = 8380
 name = "menu"
+
+[1030]
+addr = 4144
+name = "redgate_func"
