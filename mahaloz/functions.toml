@@ -21,3 +21,7 @@ name = "hello2"
 [2019]
 addr = 8217
 name = "yoyo2"
+
+[1c1b]
+addr = 7195
+name = "new_func_name"
