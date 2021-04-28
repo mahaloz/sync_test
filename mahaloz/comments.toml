@@ -2,10 +2,6 @@
 addr = 4144
 comment = "\n\n0x1039: Comment by redgate.\n\n0x1039: Comment by redgate. More comments sdjkflsldf ."
 
-[11a0]
-addr = 4512
-comment = "\n\n0x11b3: fini"
-
 [20bc]
 addr = 8380
 comment = "***\nThis function takes in some\nxxx\n\n***\n\n0x2135: this is a format string"
@@ -13,4 +9,6 @@ comment = "***\nThis function takes in some\nxxx\n\n***\n\n0x2135: this is a for
 [2135]
 addr = 8501
 comment = "this is a format string"
-"
+5]
+addr = 8501
+comment = "this is a format string"
