@@ -1,0 +1,7 @@
+[-80]
+func_addr = 8380
+name = "num_val"
+stack_offset = -128
+stack_offset_type = 1
+size = 8
+type = "unsigned long long"
