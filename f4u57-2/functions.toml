@@ -5,3 +5,7 @@ name = "yoyo2"
 [1eac]
 addr = 7852
 name = "hello2"
+
+[20bc]
+addr = 8380
+name = "myfunction2"
