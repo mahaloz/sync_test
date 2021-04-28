@@ -4,11 +4,11 @@ comment = "\n\n0x1039: Comment by redgate.\n\n0x1039: Comment by redgate. More c
 
 [11a0]
 addr = 4512
-comment = "\n\n0x11a9: argc"
+comment = "\n\n0x11a6: rtld_fini"
 
-[11a9]
-addr = 4521
-comment = "argc"
+[11a6]
+addr = 4518
+comment = "rtld_fini"
 
 [20bc]
 addr = 8380
@@ -17,4 +17,3 @@ comment = "***\nThis function takes in some\nxxx\n\n***\n\n0x2135: this is a for
 [2135]
 addr = 8501
 comment = "this is a format string"
-t string"
