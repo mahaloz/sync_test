@@ -25,3 +25,7 @@ name = "yoyo2"
 [1c1b]
 addr = 7195
 name = "new_func_name"
+
+[2240]
+addr = 8768
+name = "init"
