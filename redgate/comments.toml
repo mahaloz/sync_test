@@ -1,3 +1,7 @@
 [1030]
 addr = 4144
 comment = "\n\n0x1039: Comment by redgate."
+
+[1039]
+addr = 4153
+comment = "Comment by redgate."
