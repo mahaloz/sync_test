@@ -1,0 +1,15 @@
+[40055c]
+addr = 4195676
+comment = "\n\n0x40056d: comment 1\n\n0x40056d: comment 1\n\n0x400573: comment 2\n\n0x40056d: comment 1\n\n0x400573: comment 2\n\n0x4005b4: comment 3"
+
+[40056d]
+addr = 4195693
+comment = "comment 1"
+
+[400573]
+addr = 4195699
+comment = "comment 2"
+
+[4005b4]
+addr = 4195764
+comment = "comment 3"
