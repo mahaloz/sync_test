@@ -9,3 +9,7 @@ name = "hello2"
 [20bc]
 addr = 8380
 name = "myfunction2"
+
+[1080]
+addr = 4224
+name = "x"
