@@ -4,7 +4,7 @@ comment = "\n\n0x1039: Comment by redgate.\n\n0x1039: Comment by redgate. More c
 
 [20bc]
 addr = 8380
-comment = "***\nThis function takes in some\nxxx\n\n***\n\n0x2135: this is a format string"
+comment = "***\nThis function takes in some\nxxx\n\n***\n\n0x2135: this is a format string\n\n0x20bc: ***\nThis function takes in some\nxxx\n\n***\n\n0x2135: this is a format string\n\n0x2135: this is a format string"
 
 [2135]
 addr = 8501
