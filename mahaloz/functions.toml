@@ -13,3 +13,7 @@ name = "menu"
 [1030]
 addr = 4144
 name = "redgate_func"
+
+[1eac]
+addr = 7852
+name = "hello2"
