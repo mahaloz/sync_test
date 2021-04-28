@@ -5,3 +5,7 @@ name = "mahaloz_func"
 [201a]
 addr = 8218
 name = "cool_lookin_function"
+
+[20bc]
+addr = 8380
+name = "menu"
