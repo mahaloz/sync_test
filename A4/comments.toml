@@ -1,0 +1,15 @@
+[40056d]
+addr = 4195693
+comment = "comment"
+
+[400573]
+addr = 4195699
+comment = "this is a loop"
+
+[400592]
+addr = 4195730
+comment = "this is an array I think"
+
+[4005b4]
+addr = 4195764
+comment = "this is just the ret"
