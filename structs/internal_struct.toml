@@ -3,7 +3,7 @@ name = "internal_struct"
 size = 80
 
 [48]
-member_name = "field_0"
+member_name = "size"
 offset = 72
 type = ""
 size = 8
