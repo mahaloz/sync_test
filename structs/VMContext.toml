@@ -3,7 +3,7 @@ name = "VMContext"
 size = 8
 
 [0]
-member_name = "field_0"
+member_name = "internal_ptr"
 offset = 0
 type = "internal_struct *[]"
 size = 8
