@@ -5,7 +5,7 @@ size = 16
 [0]
 member_name = "field_0"
 offset = 0
-type = ""
+type = "internal_struct *"
 size = 8
 
 [8]
