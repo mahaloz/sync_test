@@ -7,3 +7,8 @@ last_change = 1625860142
 addr = 10224
 name = "_ZN5rp2sm9VMContext6invokeEtSt5tupleIJPmhEES3_"
 last_change = 1625861247
+
+[22b0]
+addr = 8880
+name = "_ZN5rp2sm9VMContextaSEOS0_"
+last_change = 1625869537

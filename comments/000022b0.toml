@@ -1,0 +1,5 @@
+[22b0]
+comment = "***\nOverloads the way a \"=\" works on two \nVMContext objects. Causes a weird delete of one\nof them.\n\n***"
+decompiled = false
+func_addr = 8880
+addr = 8880
