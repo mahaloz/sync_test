@@ -1,6 +1,6 @@
 [struct_metadata]
 name = "VMContext"
-size = 88
+size = 16
 
 [0]
 member_name = "field_0"
@@ -8,8 +8,8 @@ offset = 0
 type = ""
 size = 8
 
-[50]
+[8]
 member_name = "size"
-offset = 80
+offset = 8
 type = ""
 size = 8
