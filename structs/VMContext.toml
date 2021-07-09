@@ -9,7 +9,7 @@ type = ""
 size = 8
 
 [8]
-member_name = "size"
+member_name = "field_1"
 offset = 8
 type = ""
 size = 8
