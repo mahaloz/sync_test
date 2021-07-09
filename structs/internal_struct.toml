@@ -1,9 +1,9 @@
 [struct_metadata]
 name = "internal_struct"
-size = 1
+size = 88
 
-[0]
+[57]
 member_name = "field_0"
-offset = 0
+offset = 87
 type = ""
 size = 1
