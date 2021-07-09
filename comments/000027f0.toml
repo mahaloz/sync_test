@@ -1,0 +1,5 @@
+[27f0]
+comment = "***\nthis: a this ptr to VMContext\nzero: always the literal value 0\ntwo: always the first value as 2\none: always the first value as 1\n\n***"
+decompiled = false
+func_addr = 10224
+addr = 10224

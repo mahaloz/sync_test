@@ -2,3 +2,8 @@
 addr = 9424
 name = "_ZN5rp2sm9VMContext6createEPvm"
 last_change = 1625860142
+
+[27f0]
+addr = 10224
+name = "_ZN5rp2sm9VMContext6invokeEtSt5tupleIJPmhEES3_"
+last_change = 1625861190
