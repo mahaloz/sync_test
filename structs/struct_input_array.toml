@@ -3,7 +3,7 @@ name = "struct_input_array"
 size = 34
 
 [0]
-member_name = "qword0"
+member_name = "password"
 offset = 0
 type = "_QWORD"
 size = 8
