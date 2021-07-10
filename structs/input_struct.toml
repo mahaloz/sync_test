@@ -1,5 +1,5 @@
 [struct_metadata]
-name = "struct_input_array"
+name = "input_struct"
 size = 34
 
 [0]
@@ -47,5 +47,5 @@ size = 4
 [20]
 member_name = "unsigned___int1620"
 offset = 32
-type = ""
+type = "unsigned __int16"
 size = 2
