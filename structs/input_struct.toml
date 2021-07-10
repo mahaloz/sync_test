@@ -5,8 +5,14 @@ size = 34
 [0]
 member_name = "password"
 offset = 0
-type = "_QWORD"
-size = 8
+type = "char[4]"
+size = 4
+
+[4]
+member_name = "gap4"
+offset = 4
+type = "_BYTE[4]"
+size = 4
 
 [8]
 member_name = "unsigned_int8"
@@ -47,5 +53,5 @@ size = 4
 [20]
 member_name = "unsigned___int1620"
 offset = 32
-type = "unsigned __int16"
+type = ""
 size = 2
